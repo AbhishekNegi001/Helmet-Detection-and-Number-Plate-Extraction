@@ -1,0 +1,8 @@
+runs
+Bike_Helmet_Detection_Dataset
+Vehicle_Registration_Plates_Dataset
+Person_on_Bike_Dataset
+Prediction_video.avi
+/main_model/*
+!/main_model/
+!/main_model/main.py
